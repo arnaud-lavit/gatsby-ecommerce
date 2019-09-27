@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5,h6 {
   min-height: 60vh;
 }
 .btn-yellow {
-  color:var(--mainYellow);
+  color: var(--mainYellow);
   border-color: var(--mainYellow);
 }
 .btn-yellow:hover {
@@ -44,4 +44,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 .footer {
   background: var(--mainBrown);
+}
+.menu {
+  background-color: #EEE6DB;
 }
