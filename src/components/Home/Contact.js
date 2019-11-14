@@ -5,9 +5,9 @@ export default function Contact() {
   return (
     <section className="contact py-5">
       <Title title="contact us" />
-      <div className="row">
+      <div className="row row-no-margin">
         <div className="col-10 col-sm-8 col-md-6 mx-auto">
-          <form>
+          <form action="https://formspree.io/xrgglpyy" method="POST">
             {/* name */}
             <div className="form-group">
               <label htmlFor="name">Name</label>
